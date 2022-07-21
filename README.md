@@ -1,4 +1,4 @@
-# my-first-test-repo
+# my-second-repo
 
 テスト用のリポジトリです．
 
